@@ -1,2 +1,2 @@
 # wa_arcus
-Automation to post on Instagram 
+Repositorio (backup para WaArcus)
